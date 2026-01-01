@@ -7,3 +7,8 @@ This repository contains projects submitted during my **PGP in Artificial Intell
 * 📌 **Jupyter notebooks (`.ipynb`) will be added soon** for all projects
 
 This repo serves as a consolidated showcase of my learning and hands-on work throughout the program.
+
+🔗 E-Portfolio
+
+A curated view of selected projects and work:
+➡️ https://www.mygreatlearning.com/eportfolio/nipun-shah
